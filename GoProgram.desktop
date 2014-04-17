@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=transmission
+Name[en_US]=GoProgram
+Exec=/home/matthew/Desktop/PCS/projects/bashTools/startBash.sh
+Name=GoProgram
+Icon=transmission
